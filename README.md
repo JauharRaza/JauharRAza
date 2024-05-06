@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello World, Myself Jauhar Raza 👋
 
-<!--
-**JauharRaza/JauharRAza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Data Analysis Enthusiast | CFA Charterholder**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Leveraging financial expertise and a passion for data, I build insightful visualizations and analyses using Python, SQL, and Power BI. Always eager to learn new technologies for creating impactful data-driven projects.
+
+**Tools & Skills:**
+
+* Programming: Python (NumPy, Pandas, Matplotlib/Seaborn)
+* Databases: SQL (MySQL, PostgreSQL)
+* Data Visualization: Power BI, Tableau (open to learning new tools)
+* Financial Analysis: Financial Modeling, Valuation, Risk Analysis (CFA)
+
+**Key Strengths:**
+
+* Strong foundation in financial concepts and data analysis methodologies
+* Ability to translate complex data into clear and actionable insights
+* Experience in building and deploying data-driven solutions
